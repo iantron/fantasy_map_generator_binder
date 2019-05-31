@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir /map && cd /map
+mkdir ~/map && cd ~/map
 git clone https://github.com/rlguy/FantasyMapGenerator.git .
 
 mkdir build && cd build
