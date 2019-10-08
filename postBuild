@@ -1,5 +1,8 @@
 #!/bin/bash
 
+pip2 install pycairo
+alias python=python2
+
 mkdir ~/map && cd ~/map
 git clone https://github.com/rlguy/FantasyMapGenerator.git .
 
