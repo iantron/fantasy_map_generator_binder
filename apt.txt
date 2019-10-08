@@ -1,5 +1,6 @@
 libcairo2-dev
 pkg-config
+python-pip
 python-dev
 cmake
 git
